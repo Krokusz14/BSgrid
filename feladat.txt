@@ -1,0 +1,12 @@
+Nyissuk meg a grid.html oldalt. Ez 10 bekezdést
+tartalmaz. Alakítsuk ki a struktúrát úgy, hogy
+• xs kijelzőn 1 oszlop legyen
+• sm kijelzőn 2 oszlop legyen
+• md kijelzőn 4 oszlop legyen
+• lg kijelzőn 6 oszlop legyen
+• xl kijelzőn 12 oszlop legyen
+• Az első bekezdésben lévő szöveg utoljára jelenjen meg, az
+utolsó pedig elsőként.
+• A jobb oldali margó legyen 3-as!
+• A div elemek körül jelenjen meg vékony, pontozott szegély!
+• Használjunk lapon belüli stílusmegadást erre a célra!
